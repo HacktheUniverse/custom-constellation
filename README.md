@@ -19,3 +19,6 @@ HOW TO USE
 
 Enjoy!!!
 The Starface team
+--
+Find us on twitter: @piaaaac and @DpRife
+You can (try to) report problems to piacentini.alex@gmail.com
