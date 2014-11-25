@@ -10,7 +10,7 @@ https://vimeo.com/111307271
 HOW TO USE
 ==========
 
-1. launch starface.pde (you need processing)
+1. download .zip and launch starface.pde (you need processing)
 2. draw dots on your face by clicking
 3. when you're done press any key and see your constellation mapped on real stars!
    - scroll with the mouse to navigate your constellation-face in 3d
