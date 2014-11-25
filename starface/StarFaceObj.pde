@@ -8,7 +8,7 @@ public class StarFaceObj{
 	float maxCanvasStarAlpha = 150;
 	float minCanvasZ = -500;
 	float maxCanvasZ = 500;
-	float extraMargin = 500;
+	float extraMargin = 300;
 	float autorotationSpeed = 0.03;
 	float scrollRotationSpeed = 0.003;
 

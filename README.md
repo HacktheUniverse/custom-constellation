@@ -12,10 +12,10 @@ HOW TO USE
 
 1. launch starface.pde (you need processing)
 2. draw dots on your face by clicking
-3. when you're done press any key
-4. navigate your constellation-face in 3d by scrolling with the mouse
-5. pressing any keyboard key will toggle star names
-
+3. when you're done press any key and see your constellation mapped on real stars!
+   - scroll with the mouse to navigate your constellation-face in 3d
+   - press any keyboard key to toggle star names
+   - click to continuously rotate the scene
 
 Enjoy!!!
 The Starface team
