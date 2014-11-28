@@ -6,6 +6,8 @@ category = wild card
 Video!
 https://vimeo.com/111307271
 
+Demo from Hack the Universe presentation: http://youtu.be/L5FriQfPxKQ?list=UUIuhq9LTleLC-GMdAOvvZcg
+
 
 HOW TO USE
 ==========
